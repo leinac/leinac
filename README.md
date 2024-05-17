@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋 ,
 
-<!--
-**leinac/leinac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leina Chaudhry About Me: 🔭 I am currently working on Natural Language Processing, Machine Learning.
 
-Here are some ideas to get you started:
+🔭 I am really passionate about Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+
+⚡ Currently working as a Data Scientist at Icon Plc
+
+Skills: Machine Learning | Deep Learning | Image Processing | Algorithms | Statistical Modelling | Natural Language | Linux | PHP | Computer Vision | Python | Tensorflow | Pytorch | Exploratory Data Analysis|
+
+📫 Reach me at: leinachaudhry@gmail.com
+
+⚡ My Rule : Never Stop Learning
